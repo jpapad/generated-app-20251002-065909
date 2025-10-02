@@ -1,6 +1,6 @@
 # CulinaFlow: The Professional Chef's Digital Sous-Chef
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jpapad/generated-app-20251002-065909)
 
 CulinaFlow is a comprehensive, cloud-native application designed to be the central command center for professional kitchens, especially in high-pressure hotel and catering environments. It digitizes and streamlines every aspect of kitchen management, from creative recipe development to rigorous HACCP compliance. The application is built on a modular architecture, allowing chefs and managers to seamlessly navigate between recipe creation, menu planning, buffet organization, production scheduling, inventory management, and hygiene logging.
 
@@ -102,7 +102,7 @@ This project is designed for easy deployment to the Cloudflare network.
 
 This command will build the frontend, bundle the worker, and deploy both to your Cloudflare account.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/jpapad/generated-app-20251002-065909)
 
 ## Contributing
 
